@@ -1,106 +1,106 @@
-Tue Jul 13 10:45:52 2021: build-wrapper, version 6.23 (win-x86-64)
-Tue Jul 13 10:45:52 2021: isWow64: 0
-Tue Jul 13 10:45:52 2021: windows version: 6.2, service pack: 0.0, build number: 9200, product type: 1
-Tue Jul 13 10:45:52 2021: current directory: C:\Users\thiagodnf\Workspace\buggy-cpp-code
-Tue Jul 13 10:45:52 2021: cwd: <C:\Users\thiagodnf\Workspace\buggy-cpp-code>
-Tue Jul 13 10:45:52 2021: out-dir absolute path: <C:\Users\thiagodnf\Workspace\buggy-cpp-code\build_wrapper_output_directory>
-Tue Jul 13 10:45:52 2021: command line received: <compile.bat>
-Tue Jul 13 10:45:52 2021: initializing json file
-Tue Jul 13 10:45:52 2021: starting debug cycle
-Tue Jul 13 10:45:52 2021: process created with pid: 19060
-Tue Jul 13 10:45:52 2021: image path name: <C:\WINDOWS\system32\cmd.exe>
-Tue Jul 13 10:45:52 2021: command line: <C:\WINDOWS\system32\cmd.exe /c compile.bat>
-Tue Jul 13 10:45:52 2021: working directory: <C:\Users\thiagodnf\Workspace\buggy-cpp-code\>
-Tue Jul 13 10:45:52 2021: isWow64: 0
-Tue Jul 13 10:45:52 2021: skipping process C:\WINDOWS\system32\cmd.exe with pid: 19060
-Tue Jul 13 10:45:52 2021: process created with pid: 7668
-Tue Jul 13 10:45:52 2021: image path name: <C:\Program Files\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\g++.exe>
-Tue Jul 13 10:45:52 2021: command line: <g++  -fdiagnostics-show-option -o main main.cpp>
-Tue Jul 13 10:45:52 2021: working directory: <C:\Users\thiagodnf\Workspace\buggy-cpp-code\>
-Tue Jul 13 10:45:52 2021: isWow64: 0
-Tue Jul 13 10:45:52 2021: env0: <=C:=C:\Users\thiagodnf\Workspace\buggy-cpp-code>
-Tue Jul 13 10:45:52 2021: env1: <ALLUSERSPROFILE=C:\ProgramData>
-Tue Jul 13 10:45:52 2021: env2: <APPDATA=C:\Users\thiagodnf\AppData\Roaming>
-Tue Jul 13 10:45:52 2021: env3: <CHROME_CRASHPAD_PIPE_NAME=\\.\pipe\crashpad_17576_NUOFPDJWXVETSKUJ>
-Tue Jul 13 10:45:52 2021: env4: <CommonProgramFiles=C:\Program Files\Common Files>
-Tue Jul 13 10:45:52 2021: env5: <CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files>
-Tue Jul 13 10:45:52 2021: env6: <CommonProgramW6432=C:\Program Files\Common Files>
-Tue Jul 13 10:45:52 2021: env7: <COMPUTERNAME=DESKTOP-D4L0HR2>
-Tue Jul 13 10:45:52 2021: env8: <ComSpec=C:\WINDOWS\system32\cmd.exe>
-Tue Jul 13 10:45:52 2021: env9: <CYGWIN=wincmdln>
-Tue Jul 13 10:45:52 2021: env10: <DriverData=C:\Windows\System32\Drivers\DriverData>
-Tue Jul 13 10:45:52 2021: env11: <GNUPLOT_LIB=C:\Program Files\gnuplot\demo;C:\Program Files\gnuplot\demo\games;C:\Program Files\gnuplot\share>
-Tue Jul 13 10:45:52 2021: env12: <HOMEDRIVE=C:>
-Tue Jul 13 10:45:52 2021: env13: <HOMEPATH=\Users\thiagodnf>
-Tue Jul 13 10:45:52 2021: env14: <IntelliJ IDEA=C:\Program Files\JetBrains\IntelliJ IDEA 2021.1.1\bin;>
-Tue Jul 13 10:45:52 2021: env15: <LOCALAPPDATA=C:\Users\thiagodnf\AppData\Local>
-Tue Jul 13 10:45:52 2021: env16: <LOGONSERVER=\\DESKTOP-D4L0HR2>
-Tue Jul 13 10:45:52 2021: env17: <NUMBER_OF_PROCESSORS=4>
-Tue Jul 13 10:45:52 2021: env18: <OneDrive=C:\Users\thiagodnf\OneDrive>
-Tue Jul 13 10:45:52 2021: env19: <OneDriveConsumer=C:\Users\thiagodnf\OneDrive>
-Tue Jul 13 10:45:52 2021: env20: <ORIGINAL_XDG_CURRENT_DESKTOP=undefined>
-Tue Jul 13 10:45:52 2021: env21: <OS=Windows_NT>
-Tue Jul 13 10:45:52 2021: env22: <Path=C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\MiKTeX\miktex\bin\x64\;C:\Program Files\nodejs\;C:\Program Files\gnuplot\bin;C:\Program Files\Graphviz\bin;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\Git\cmd;C:\Program Files\apache-maven-3.8.1\bin;C:\Program Files\sonar-scanner-4.6.2.2472-windows\bin;C:\Program Files\build-wrapper-win-x86;C:\Program Files\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin;C:\Users\thiagodnf\AppData\Local\Programs\Python\Python39\Scripts\;C:\Users\thiagodnf\AppData\Local\Programs\Python\Python39\;C:\Users\thiagodnf\AppData\Local\Microsoft\WindowsApps;C:\Users\thiagodnf\AppData\Roaming\npm;C:\Users\thiagodnf\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\thiagodnf\AppData\Local\GitHubDesktop\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2021.1.1\bin;>
-Tue Jul 13 10:45:52 2021: env23: <PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.CPL>
-Tue Jul 13 10:45:52 2021: env24: <PROCESSOR_ARCHITECTURE=AMD64>
-Tue Jul 13 10:45:52 2021: env25: <PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 58 Stepping 9, GenuineIntel>
-Tue Jul 13 10:45:52 2021: env26: <PROCESSOR_LEVEL=6>
-Tue Jul 13 10:45:52 2021: env27: <PROCESSOR_REVISION=3a09>
-Tue Jul 13 10:45:52 2021: env28: <ProgramData=C:\ProgramData>
-Tue Jul 13 10:45:52 2021: env29: <ProgramFiles=C:\Program Files>
-Tue Jul 13 10:45:52 2021: env30: <ProgramFiles(x86)=C:\Program Files (x86)>
-Tue Jul 13 10:45:52 2021: env31: <ProgramW6432=C:\Program Files>
-Tue Jul 13 10:45:52 2021: env32: <PROMPT=$P$G>
-Tue Jul 13 10:45:52 2021: env33: <PSModulePath=C:\Users\thiagodnf\Documents\WindowsPowerShell\Modules;C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules>
-Tue Jul 13 10:45:52 2021: env34: <PUBLIC=C:\Users\Public>
-Tue Jul 13 10:45:52 2021: env35: <SESSIONNAME=Console>
-Tue Jul 13 10:45:52 2021: env36: <SONAR_TOKEN=c63fd0f074c51f1190bab268a853f760f5f77587>
-Tue Jul 13 10:45:52 2021: env37: <SystemDrive=C:>
-Tue Jul 13 10:45:52 2021: env38: <SystemRoot=C:\WINDOWS>
-Tue Jul 13 10:45:52 2021: env39: <TEMP=C:\Users\THIAGO~1\AppData\Local\Temp>
-Tue Jul 13 10:45:52 2021: env40: <TMP=C:\Users\THIAGO~1\AppData\Local\Temp>
-Tue Jul 13 10:45:52 2021: env41: <USERDOMAIN=DESKTOP-D4L0HR2>
-Tue Jul 13 10:45:52 2021: env42: <USERDOMAIN_ROAMINGPROFILE=DESKTOP-D4L0HR2>
-Tue Jul 13 10:45:52 2021: env43: <USERNAME=thiagodnf>
-Tue Jul 13 10:45:52 2021: env44: <USERPROFILE=C:\Users\thiagodnf>
-Tue Jul 13 10:45:52 2021: env45: <windir=C:\WINDOWS>
-Tue Jul 13 10:45:52 2021: env46: <TERM_PROGRAM=vscode>
-Tue Jul 13 10:45:52 2021: env47: <TERM_PROGRAM_VERSION=1.58.0>
-Tue Jul 13 10:45:52 2021: env48: <LANG=en_US.UTF-8>
-Tue Jul 13 10:45:52 2021: env49: <COLORTERM=truecolor>
-Tue Jul 13 10:45:52 2021: env50: <VSCODE_GIT_IPC_HANDLE=\\.\pipe\vscode-git-b795af4e83-sock>
-Tue Jul 13 10:45:52 2021: env51: <GIT_ASKPASS=c:\Users\thiagodnf\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\askpass.sh>
-Tue Jul 13 10:45:52 2021: env52: <VSCODE_GIT_ASKPASS_NODE=C:\Users\thiagodnf\AppData\Local\Programs\Microsoft VS Code\Code.exe>
-Tue Jul 13 10:45:52 2021: env53: <VSCODE_GIT_ASKPASS_MAIN=c:\Users\thiagodnf\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\askpass-main.js>
-Tue Jul 13 10:45:52 2021: env54: <_NO_DEBUG_HEAP=1>
-Tue Jul 13 10:45:52 2021: process created with pid: 10464
-Tue Jul 13 10:45:52 2021: image path name: <C:\Program Files\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\..\libexec\gcc\x86_64-w64-mingw32\8.1.0\cc1plus.exe>
-Tue Jul 13 10:45:52 2021: command line: <"C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/8.1.0/cc1plus.exe" -quiet -iprefix "C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/" -D_REENTRANT main.cpp -quiet -dumpbase main.cpp -mtune=core2 -march=nocona -auxbase main -fdiagnostics-show-option -o C:\Users\THIAGO~1\AppData\Local\Temp\ccs5ZrNU.s>
-Tue Jul 13 10:45:52 2021: working directory: <C:\Users\thiagodnf\Workspace\buggy-cpp-code\>
-Tue Jul 13 10:45:52 2021: isWow64: 0
-Tue Jul 13 10:45:52 2021: skipping process C:\Program Files\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\..\libexec\gcc\x86_64-w64-mingw32\8.1.0\cc1plus.exe with pid: 10464
-Tue Jul 13 10:45:53 2021: process with pid 10464 exit with code: 0 (0x0)
-Tue Jul 13 10:45:53 2021: process created with pid: 9312
-Tue Jul 13 10:45:53 2021: image path name: <C:\Program Files\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\..\lib\gcc\x86_64-w64-mingw32\8.1.0\..\..\..\..\x86_64-w64-mingw32\bin\as.exe>
-Tue Jul 13 10:45:53 2021: command line: <"C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/bin/as.exe" -o C:\Users\THIAGO~1\AppData\Local\Temp\ccPCGbaO.o C:\Users\THIAGO~1\AppData\Local\Temp\ccs5ZrNU.s>
-Tue Jul 13 10:45:53 2021: working directory: <C:\Users\thiagodnf\Workspace\buggy-cpp-code\>
-Tue Jul 13 10:45:53 2021: isWow64: 0
-Tue Jul 13 10:45:53 2021: skipping process C:\Program Files\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\..\lib\gcc\x86_64-w64-mingw32\8.1.0\..\..\..\..\x86_64-w64-mingw32\bin\as.exe with pid: 9312
-Tue Jul 13 10:45:53 2021: process with pid 9312 exit with code: 0 (0x0)
-Tue Jul 13 10:45:53 2021: process created with pid: 10096
-Tue Jul 13 10:45:53 2021: image path name: <C:\Program Files\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\..\libexec\gcc\x86_64-w64-mingw32\8.1.0\collect2.exe>
-Tue Jul 13 10:45:53 2021: command line: <"C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/8.1.0/collect2.exe" -plugin "C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/8.1.0/liblto_plugin-0.dll" "-plugin-opt=C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/8.1.0/lto-wrapper.exe" -plugin-opt=-fresolution=C:\Users\THIAGO~1\AppData\Local\Temp\ccI0DA0L.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-liconv -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt --sysroot=C:/mingw810/x86_64-810-posix-seh-rt_v6-rev0/mingw64 -m i386pep -Bdynamic -o main.exe "C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o" "C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/crtbegin.o" "-LC:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0" "-LC:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc" "-LC:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/lib/../lib" "-LC:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../lib" "-LC:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/lib" "-LC:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../.." C:\Users\THIAGO~1\AppData\Local\Temp\ccPCGbaO.o -lstdc++ -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt "C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/crtend.o">
-Tue Jul 13 10:45:53 2021: working directory: <C:\Users\thiagodnf\Workspace\buggy-cpp-code\>
-Tue Jul 13 10:45:53 2021: isWow64: 0
-Tue Jul 13 10:45:53 2021: skipping process C:\Program Files\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\..\libexec\gcc\x86_64-w64-mingw32\8.1.0\collect2.exe with pid: 10096
-Tue Jul 13 10:45:53 2021: process created with pid: 10944
-Tue Jul 13 10:45:53 2021: image path name: <C:\Program Files\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\..\lib\gcc\x86_64-w64-mingw32\8.1.0\..\..\..\..\x86_64-w64-mingw32\bin\ld.exe>
-Tue Jul 13 10:45:53 2021: command line: <"C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe" -plugin "C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/8.1.0/liblto_plugin-0.dll" "-plugin-opt=C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/8.1.0/lto-wrapper.exe" -plugin-opt=-fresolution=C:\Users\THIAGO~1\AppData\Local\Temp\ccI0DA0L.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-liconv -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt --sysroot=C:/mingw810/x86_64-810-posix-seh-rt_v6-rev0/mingw64 -m i386pep -Bdynamic -o main.exe "C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o" "C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/crtbegin.o" "-LC:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0" "-LC:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc" "-LC:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/lib/../lib" "-LC:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../lib" "-LC:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/lib" "-LC:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../.." C:\Users\THIAGO~1\AppData\Local\Temp\ccPCGbaO.o -lstdc++ -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt "C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/crtend.o">
-Tue Jul 13 10:45:53 2021: working directory: <C:\Users\thiagodnf\Workspace\buggy-cpp-code\>
-Tue Jul 13 10:45:53 2021: isWow64: 0
-Tue Jul 13 10:45:53 2021: skipping process C:\Program Files\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\..\lib\gcc\x86_64-w64-mingw32\8.1.0\..\..\..\..\x86_64-w64-mingw32\bin\ld.exe with pid: 10944
-Tue Jul 13 10:45:54 2021: process with pid 10944 exit with code: 0 (0x0)
-Tue Jul 13 10:45:54 2021: process with pid 10096 exit with code: 0 (0x0)
-Tue Jul 13 10:45:54 2021: process with pid 7668 exit with code: 0 (0x0)
-Tue Jul 13 10:45:54 2021: process with pid 19060 exit with code: 0 (0x0)
-Tue Jul 13 10:45:54 2021: finalizing json file
+Tue Jul 13 11:15:44 2021: build-wrapper, version 6.23 (win-x86-64)
+Tue Jul 13 11:15:44 2021: isWow64: 0
+Tue Jul 13 11:15:44 2021: windows version: 6.2, service pack: 0.0, build number: 9200, product type: 1
+Tue Jul 13 11:15:44 2021: current directory: C:\Users\thiagodnf\Workspace\buggy-cpp-code
+Tue Jul 13 11:15:44 2021: cwd: <C:\Users\thiagodnf\Workspace\buggy-cpp-code>
+Tue Jul 13 11:15:44 2021: out-dir absolute path: <C:\Users\thiagodnf\Workspace\buggy-cpp-code\build_wrapper_output_directory>
+Tue Jul 13 11:15:44 2021: command line received: <compile.bat>
+Tue Jul 13 11:15:44 2021: initializing json file
+Tue Jul 13 11:15:44 2021: starting debug cycle
+Tue Jul 13 11:15:44 2021: process created with pid: 12948
+Tue Jul 13 11:15:44 2021: image path name: <C:\WINDOWS\system32\cmd.exe>
+Tue Jul 13 11:15:44 2021: command line: <C:\WINDOWS\system32\cmd.exe /c compile.bat>
+Tue Jul 13 11:15:44 2021: working directory: <C:\Users\thiagodnf\Workspace\buggy-cpp-code\>
+Tue Jul 13 11:15:44 2021: isWow64: 0
+Tue Jul 13 11:15:44 2021: skipping process C:\WINDOWS\system32\cmd.exe with pid: 12948
+Tue Jul 13 11:15:44 2021: process created with pid: 21088
+Tue Jul 13 11:15:44 2021: image path name: <C:\Program Files\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\g++.exe>
+Tue Jul 13 11:15:44 2021: command line: <g++  -fdiagnostics-show-option -o main main.cpp>
+Tue Jul 13 11:15:44 2021: working directory: <C:\Users\thiagodnf\Workspace\buggy-cpp-code\>
+Tue Jul 13 11:15:44 2021: isWow64: 0
+Tue Jul 13 11:15:44 2021: env0: <=C:=C:\Users\thiagodnf\Workspace\buggy-cpp-code>
+Tue Jul 13 11:15:44 2021: env1: <ALLUSERSPROFILE=C:\ProgramData>
+Tue Jul 13 11:15:44 2021: env2: <APPDATA=C:\Users\thiagodnf\AppData\Roaming>
+Tue Jul 13 11:15:44 2021: env3: <CHROME_CRASHPAD_PIPE_NAME=\\.\pipe\crashpad_17576_NUOFPDJWXVETSKUJ>
+Tue Jul 13 11:15:44 2021: env4: <CommonProgramFiles=C:\Program Files\Common Files>
+Tue Jul 13 11:15:44 2021: env5: <CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files>
+Tue Jul 13 11:15:44 2021: env6: <CommonProgramW6432=C:\Program Files\Common Files>
+Tue Jul 13 11:15:44 2021: env7: <COMPUTERNAME=DESKTOP-D4L0HR2>
+Tue Jul 13 11:15:44 2021: env8: <ComSpec=C:\WINDOWS\system32\cmd.exe>
+Tue Jul 13 11:15:44 2021: env9: <CYGWIN=wincmdln>
+Tue Jul 13 11:15:44 2021: env10: <DriverData=C:\Windows\System32\Drivers\DriverData>
+Tue Jul 13 11:15:44 2021: env11: <GNUPLOT_LIB=C:\Program Files\gnuplot\demo;C:\Program Files\gnuplot\demo\games;C:\Program Files\gnuplot\share>
+Tue Jul 13 11:15:44 2021: env12: <HOMEDRIVE=C:>
+Tue Jul 13 11:15:44 2021: env13: <HOMEPATH=\Users\thiagodnf>
+Tue Jul 13 11:15:44 2021: env14: <IntelliJ IDEA=C:\Program Files\JetBrains\IntelliJ IDEA 2021.1.1\bin;>
+Tue Jul 13 11:15:44 2021: env15: <LOCALAPPDATA=C:\Users\thiagodnf\AppData\Local>
+Tue Jul 13 11:15:44 2021: env16: <LOGONSERVER=\\DESKTOP-D4L0HR2>
+Tue Jul 13 11:15:44 2021: env17: <NUMBER_OF_PROCESSORS=4>
+Tue Jul 13 11:15:44 2021: env18: <OneDrive=C:\Users\thiagodnf\OneDrive>
+Tue Jul 13 11:15:44 2021: env19: <OneDriveConsumer=C:\Users\thiagodnf\OneDrive>
+Tue Jul 13 11:15:44 2021: env20: <ORIGINAL_XDG_CURRENT_DESKTOP=undefined>
+Tue Jul 13 11:15:44 2021: env21: <OS=Windows_NT>
+Tue Jul 13 11:15:44 2021: env22: <Path=C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\MiKTeX\miktex\bin\x64\;C:\Program Files\nodejs\;C:\Program Files\gnuplot\bin;C:\Program Files\Graphviz\bin;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\Git\cmd;C:\Program Files\apache-maven-3.8.1\bin;C:\Program Files\sonar-scanner-4.6.2.2472-windows\bin;C:\Program Files\build-wrapper-win-x86;C:\Program Files\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin;C:\Users\thiagodnf\AppData\Local\Programs\Python\Python39\Scripts\;C:\Users\thiagodnf\AppData\Local\Programs\Python\Python39\;C:\Users\thiagodnf\AppData\Local\Microsoft\WindowsApps;C:\Users\thiagodnf\AppData\Roaming\npm;C:\Users\thiagodnf\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\thiagodnf\AppData\Local\GitHubDesktop\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2021.1.1\bin;>
+Tue Jul 13 11:15:44 2021: env23: <PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.CPL>
+Tue Jul 13 11:15:44 2021: env24: <PROCESSOR_ARCHITECTURE=AMD64>
+Tue Jul 13 11:15:44 2021: env25: <PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 58 Stepping 9, GenuineIntel>
+Tue Jul 13 11:15:44 2021: env26: <PROCESSOR_LEVEL=6>
+Tue Jul 13 11:15:44 2021: env27: <PROCESSOR_REVISION=3a09>
+Tue Jul 13 11:15:44 2021: env28: <ProgramData=C:\ProgramData>
+Tue Jul 13 11:15:44 2021: env29: <ProgramFiles=C:\Program Files>
+Tue Jul 13 11:15:44 2021: env30: <ProgramFiles(x86)=C:\Program Files (x86)>
+Tue Jul 13 11:15:44 2021: env31: <ProgramW6432=C:\Program Files>
+Tue Jul 13 11:15:44 2021: env32: <PROMPT=$P$G>
+Tue Jul 13 11:15:44 2021: env33: <PSModulePath=C:\Users\thiagodnf\Documents\WindowsPowerShell\Modules;C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules>
+Tue Jul 13 11:15:44 2021: env34: <PUBLIC=C:\Users\Public>
+Tue Jul 13 11:15:44 2021: env35: <SESSIONNAME=Console>
+Tue Jul 13 11:15:44 2021: env36: <SONAR_TOKEN=c63fd0f074c51f1190bab268a853f760f5f77587>
+Tue Jul 13 11:15:44 2021: env37: <SystemDrive=C:>
+Tue Jul 13 11:15:44 2021: env38: <SystemRoot=C:\WINDOWS>
+Tue Jul 13 11:15:44 2021: env39: <TEMP=C:\Users\THIAGO~1\AppData\Local\Temp>
+Tue Jul 13 11:15:44 2021: env40: <TMP=C:\Users\THIAGO~1\AppData\Local\Temp>
+Tue Jul 13 11:15:44 2021: env41: <USERDOMAIN=DESKTOP-D4L0HR2>
+Tue Jul 13 11:15:44 2021: env42: <USERDOMAIN_ROAMINGPROFILE=DESKTOP-D4L0HR2>
+Tue Jul 13 11:15:44 2021: env43: <USERNAME=thiagodnf>
+Tue Jul 13 11:15:44 2021: env44: <USERPROFILE=C:\Users\thiagodnf>
+Tue Jul 13 11:15:44 2021: env45: <windir=C:\WINDOWS>
+Tue Jul 13 11:15:44 2021: env46: <TERM_PROGRAM=vscode>
+Tue Jul 13 11:15:44 2021: env47: <TERM_PROGRAM_VERSION=1.58.0>
+Tue Jul 13 11:15:44 2021: env48: <LANG=en_US.UTF-8>
+Tue Jul 13 11:15:44 2021: env49: <COLORTERM=truecolor>
+Tue Jul 13 11:15:44 2021: env50: <VSCODE_GIT_IPC_HANDLE=\\.\pipe\vscode-git-b795af4e83-sock>
+Tue Jul 13 11:15:44 2021: env51: <GIT_ASKPASS=c:\Users\thiagodnf\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\askpass.sh>
+Tue Jul 13 11:15:44 2021: env52: <VSCODE_GIT_ASKPASS_NODE=C:\Users\thiagodnf\AppData\Local\Programs\Microsoft VS Code\Code.exe>
+Tue Jul 13 11:15:44 2021: env53: <VSCODE_GIT_ASKPASS_MAIN=c:\Users\thiagodnf\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\askpass-main.js>
+Tue Jul 13 11:15:44 2021: env54: <_NO_DEBUG_HEAP=1>
+Tue Jul 13 11:15:44 2021: process created with pid: 20056
+Tue Jul 13 11:15:44 2021: image path name: <C:\Program Files\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\..\libexec\gcc\x86_64-w64-mingw32\8.1.0\cc1plus.exe>
+Tue Jul 13 11:15:44 2021: command line: <"C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/8.1.0/cc1plus.exe" -quiet -iprefix "C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/" -D_REENTRANT main.cpp -quiet -dumpbase main.cpp -mtune=core2 -march=nocona -auxbase main -fdiagnostics-show-option -o C:\Users\THIAGO~1\AppData\Local\Temp\ccYvW9g6.s>
+Tue Jul 13 11:15:44 2021: working directory: <C:\Users\thiagodnf\Workspace\buggy-cpp-code\>
+Tue Jul 13 11:15:44 2021: isWow64: 0
+Tue Jul 13 11:15:44 2021: skipping process C:\Program Files\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\..\libexec\gcc\x86_64-w64-mingw32\8.1.0\cc1plus.exe with pid: 20056
+Tue Jul 13 11:15:45 2021: process with pid 20056 exit with code: 0 (0x0)
+Tue Jul 13 11:15:45 2021: process created with pid: 16604
+Tue Jul 13 11:15:45 2021: image path name: <C:\Program Files\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\..\lib\gcc\x86_64-w64-mingw32\8.1.0\..\..\..\..\x86_64-w64-mingw32\bin\as.exe>
+Tue Jul 13 11:15:45 2021: command line: <"C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/bin/as.exe" -o C:\Users\THIAGO~1\AppData\Local\Temp\ccppozaF.o C:\Users\THIAGO~1\AppData\Local\Temp\ccYvW9g6.s>
+Tue Jul 13 11:15:45 2021: working directory: <C:\Users\thiagodnf\Workspace\buggy-cpp-code\>
+Tue Jul 13 11:15:45 2021: isWow64: 0
+Tue Jul 13 11:15:45 2021: skipping process C:\Program Files\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\..\lib\gcc\x86_64-w64-mingw32\8.1.0\..\..\..\..\x86_64-w64-mingw32\bin\as.exe with pid: 16604
+Tue Jul 13 11:15:46 2021: process with pid 16604 exit with code: 0 (0x0)
+Tue Jul 13 11:15:46 2021: process created with pid: 16316
+Tue Jul 13 11:15:46 2021: image path name: <C:\Program Files\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\..\libexec\gcc\x86_64-w64-mingw32\8.1.0\collect2.exe>
+Tue Jul 13 11:15:46 2021: command line: <"C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/8.1.0/collect2.exe" -plugin "C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/8.1.0/liblto_plugin-0.dll" "-plugin-opt=C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/8.1.0/lto-wrapper.exe" -plugin-opt=-fresolution=C:\Users\THIAGO~1\AppData\Local\Temp\ccdqo9NP.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-liconv -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt --sysroot=C:/mingw810/x86_64-810-posix-seh-rt_v6-rev0/mingw64 -m i386pep -Bdynamic -o main.exe "C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o" "C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/crtbegin.o" "-LC:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0" "-LC:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc" "-LC:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/lib/../lib" "-LC:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../lib" "-LC:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/lib" "-LC:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../.." C:\Users\THIAGO~1\AppData\Local\Temp\ccppozaF.o -lstdc++ -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt "C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/crtend.o">
+Tue Jul 13 11:15:46 2021: working directory: <C:\Users\thiagodnf\Workspace\buggy-cpp-code\>
+Tue Jul 13 11:15:46 2021: isWow64: 0
+Tue Jul 13 11:15:46 2021: skipping process C:\Program Files\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\..\libexec\gcc\x86_64-w64-mingw32\8.1.0\collect2.exe with pid: 16316
+Tue Jul 13 11:15:46 2021: process created with pid: 18732
+Tue Jul 13 11:15:46 2021: image path name: <C:\Program Files\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\..\lib\gcc\x86_64-w64-mingw32\8.1.0\..\..\..\..\x86_64-w64-mingw32\bin\ld.exe>
+Tue Jul 13 11:15:46 2021: command line: <"C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/bin/ld.exe" -plugin "C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/8.1.0/liblto_plugin-0.dll" "-plugin-opt=C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/8.1.0/lto-wrapper.exe" -plugin-opt=-fresolution=C:\Users\THIAGO~1\AppData\Local\Temp\ccdqo9NP.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-liconv -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt --sysroot=C:/mingw810/x86_64-810-posix-seh-rt_v6-rev0/mingw64 -m i386pep -Bdynamic -o main.exe "C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/lib/../lib/crt2.o" "C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/crtbegin.o" "-LC:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0" "-LC:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc" "-LC:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/lib/../lib" "-LC:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../lib" "-LC:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/lib" "-LC:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../.." C:\Users\THIAGO~1\AppData\Local\Temp\ccppozaF.o -lstdc++ -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -liconv -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt "C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/crtend.o">
+Tue Jul 13 11:15:46 2021: working directory: <C:\Users\thiagodnf\Workspace\buggy-cpp-code\>
+Tue Jul 13 11:15:46 2021: isWow64: 0
+Tue Jul 13 11:15:46 2021: skipping process C:\Program Files\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\..\lib\gcc\x86_64-w64-mingw32\8.1.0\..\..\..\..\x86_64-w64-mingw32\bin\ld.exe with pid: 18732
+Tue Jul 13 11:15:46 2021: process with pid 18732 exit with code: 0 (0x0)
+Tue Jul 13 11:15:46 2021: process with pid 16316 exit with code: 0 (0x0)
+Tue Jul 13 11:15:46 2021: process with pid 21088 exit with code: 0 (0x0)
+Tue Jul 13 11:15:46 2021: process with pid 12948 exit with code: 0 (0x0)
+Tue Jul 13 11:15:46 2021: finalizing json file
