@@ -6,7 +6,7 @@
 <dbcount lang="c">334</dbcount>
 <dbcount lang="php">55</dbcount>
 </stats>
-<analyzed>../main.cpp</analyzed>
+<analyzed>main.cpp</analyzed>
 <vulnerability>
   <severity>High</severity>
   <type>fixed size global buffer</type>
@@ -16,13 +16,13 @@
     buffer overflow attacks.
   </message>
   <file>
-    <name>../main.cpp</name>
-    <line>6</line>
+    <name>main.cpp</name>
+    <line>9</line>
   </file>
 </vulnerability>
 <timing>
-<total_lines>32</total_lines>
-<total_time>0.003631</total_time>
-<lines_per_second>8812</lines_per_second>
+<total_lines>42</total_lines>
+<total_time>0.003815</total_time>
+<lines_per_second>11009</lines_per_second>
 </timing>
 </rats_output>

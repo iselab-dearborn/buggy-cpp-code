@@ -1,0 +1,1 @@
+rats -w 3 --xml main.cpp > report-rats.xml

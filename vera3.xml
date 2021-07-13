@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<checkstyle version="5.0">
-    <file name="main.cpp">
-        <error source="L004" severity="info" line="1" message="line is longer than 100 characters" />
-        <error source="T013" severity="info" line="1" message="no copyright notice found" />
-        <error source="T011" severity="info" line="28" message="closing curly bracket not in the same line or column" />
-        <error source="T011" severity="info" line="32" message="closing curly bracket not in the same line or column" />
-    </file>
-</checkstyle>

@@ -1,1 +1,1 @@
-vera++ -s -c vera3.xml main.cpp
+vera++ -s -c report-vera.xml main.cpp
