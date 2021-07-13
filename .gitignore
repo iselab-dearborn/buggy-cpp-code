@@ -1,1 +1,3 @@
 *.exe
+build_wrapper_output_directory/
+.scannerwork/
