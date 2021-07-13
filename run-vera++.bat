@@ -1,0 +1,1 @@
+vera++ -s -c vera3.xml main.cpp

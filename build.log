@@ -1,0 +1,10 @@
+main.cpp: In function 'int main()':
+main.cpp:8:27: error: 'ADD' was not declared in this scope
+   int   x               = ADD(40, 2);
+                           ^~~
+main.cpp:9:27: error: 'fun' was not declared in this scope
+   int   y               = fun(40, 2);
+                           ^~~
+main.cpp:13:15: warning: array subscript has type 'char' [-Wchar-subscripts]
+   buffer[index] = '1';  /* Code smell:      'char' type used as array index             */
+               ^
