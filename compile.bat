@@ -1,0 +1,1 @@
+g++ -fdiagnostics-show-option -o main main.cpp
